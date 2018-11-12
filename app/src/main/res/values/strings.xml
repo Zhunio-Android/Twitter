@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Twitter</string>
+    <string name="text_sign_in">Sign In</string>
+    <string name="edit_username_hint">Username</string>
+    <string name="edit_password_hint">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="text_sign_up_link">No account yet? Create one</string>
+    <string name="text_sign_up">Sign Up</string>
+    <string name="edit_username">Username</string>
+    <string name="edit_address">Address</string>
+    <string name="edit_mobile_number">Mobile Number</string>
+    <string name="edit_re_enter_password_hint">Re-enter Password</string>
+    <string name="edit_sign_up">Create Account</string>
+    <string name="edit_already_a_member_login">Already a member? Login</string>
+    <string name="app_id">tyCR3dGWBfKBIwYnFZBHfmVrClx4hmGrJfpRmSoe</string>
+    <string name="server_url">https://parseapi.back4app.com/</string>
+    <string name="client_key">rqAIVE5Yc34TGtugCvkPKJRpXdrMl94smRTXaN5X</string>
+    <string name="edit_username_error">Enter at least 5 characters</string>
+    <string name="edit_password_error">Enter at least 5 alphanumeric characters</string>
+    <string name="edit_password_dont_match">Password Do not match</string>
+    <string name="menu_log_out">Log out</string>
+    <string name="menu_following">Following</string>
+</resources>
